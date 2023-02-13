@@ -1,5 +1,5 @@
 # GitWorkflow
 Zum Ausprobieren 
 edit 2 Änderungen 
-edit1 Änderung A
 eine änderung
+Eine Anderubg die direkt im trunk gemacht wurde 
