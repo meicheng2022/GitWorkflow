@@ -1,4 +1,1 @@
 # GitWorkflow
-Markus 
-Seidenader
-Koerber
