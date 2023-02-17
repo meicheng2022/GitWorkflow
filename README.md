@@ -1,3 +1,4 @@
 # GitWorkflow
 Markus 
+Seidenader
 Koerber
